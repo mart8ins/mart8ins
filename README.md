@@ -13,6 +13,15 @@ My name is Martins Meisters. For last couple of years i spent large amount of my
 👉 GraphQL  <br>
 👉 Mongoose  <br>
 👆 Redux  <br>
+👆 GIT  <br>
+
+Currently im focusing on:   <br>
+💥 OOP Java & Spring  <br>
+💥 JPA  <br>
+💥 SQL  <br>
+💥 Unit testing  <br>
+💥 GIT  <br>
+
 
 
 LinkedIn - https://www.linkedin.com/in/martinsmeisters/

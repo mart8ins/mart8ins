@@ -1,6 +1,6 @@
 # Hello there! 👋
 
-My name is Martins Meisters, [see on LinkedIn](https://www.linkedin.com/in/martinsmeisters/). For last couple of years i spent large amount of my free time learning and coding, currently last couple of months im doing it full time and non stop. Basically learning and coding for me now is more like an positive addiction. Over the time there were many tecnologies what i learned and have practiced to use.
+My name is Martins Meisters, [see on LinkedIn](https://www.linkedin.com/in/martinsmeisters/). For last couple of years i spent large amount of my free time learning and coding, currently last couple of months im doing it full time and non stop. Basically learning and coding for me now is more like an positive addiction. Over the time there were many technologies what i learned and have practiced so far.
 
 ### Have experience using:  <br>
 
@@ -35,7 +35,7 @@ This is quite large Spring boot application that covers many programming princip
 * Admin API - creates flight, search flight by id, deletes
 * Customer API - search flight by id, search airports, search flights using departure/arrival airports and departure date query  <br>
 
-App is secured with spring security and configured that everyone has authorized to do only what it is suposed to do. App is written in TDD aproach, it has unit testing and also integratons test. Thanks to services interface implementations there is option to switch from  "in-memory" data storage version to "database" version where i use PostgreSQL database. Request validations are also included.  <br>
+App is secured with spring security and configured that everyone is authorized to do only what they are supposed to do. App is written in TDD aproach, it has unit testing and also integratons test. Thanks to services interface implementations there is option to switch from  "in-memory" data storage version to "database" version where i use PostgreSQL database. Request validations are also included.  <br>
 
 2️⃣ [Sudoku validator](https://github.com/mart8ins/sudokuValidator)  <br>
 
@@ -44,7 +44,3 @@ This project was interesting expierance to work with external files and deal wit
 3️⃣ [String expression calculator](https://github.com/mart8ins/stringExpressionCalculator)  <br>
 
 Given input as mathematical expression in string ( "(2 + 6 * (2 / 2)" ) app calculates result. All mathematical rulles are followed: ( ) -> * -> / -> adding/substracting from left to right.
-
-
-
-LinkedIn - https://www.linkedin.com/in/martinsmeisters/

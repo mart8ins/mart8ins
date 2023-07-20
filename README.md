@@ -1,6 +1,6 @@
 # Hello there! 👋
 
-My name is Martins Meisters ([see also in LinkedIn](https://www.linkedin.com/in/martinsmeisters/)). For last couple of years i spent large amount of my free time coding, currently last couple of months im doing it full time and non stop. Basically learning and coding for me now is more like an positive addiction. Over the time there were many technologies what i learned and have practiced so far.
+My name is Martins Meisters ( [see also in LinkedIn](https://www.linkedin.com/in/martinsmeisters/) ). For last couple of years i spent large amount of my free time coding, currently last couple of months im doing it full time and non stop. Basically learning and coding for me now is more like an positive addiction. Over the time there were many technologies what i learned and have practiced so far.
 
 ### Have experience using:  <br>
 

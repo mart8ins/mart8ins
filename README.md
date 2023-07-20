@@ -35,11 +35,12 @@ This is quite large Spring boot application that covers many programming princip
 * Admin API - creates flight, search flight by id, deletes
 * Customer API - search flight by id, search airports, search flights using departure/arrival airports and departure date query  <br>
 
-App is secured with spring security and configured that everyone has authorized to do only what it is suposed to do. App is written in TDD aproach, it has unit testing and also integratons test. Thanks to services interface implementations there is option to switch from  "in-memory" data storage version to "database" version where i use PostgreSQL database. Request validations are also included.
+App is secured with spring security and configured that everyone has authorized to do only what it is suposed to do. App is written in TDD aproach, it has unit testing and also integratons test. Thanks to services interface implementations there is option to switch from  "in-memory" data storage version to "database" version where i use PostgreSQL database. Request validations are also included.  <br>
 
-<br>
+2️⃣ [Sudoku validator](https://github.com/mart8ins/sudokuValidator)  <br>
 
-2️⃣  <br>
+This project was interesting expierance to work with external files and deal with text data, in this case sudoku game drawings. App reads files with sudoku game and checks if this game is valid regardless if its completed or not. It validates game in all possible ways. It checks main rows, columns, diognals and also checks subgroup rows, columns and diognals. After validation is done app prints if sudoku game is valid or invalid.  <br>
+
 3️⃣  <br>
 
 

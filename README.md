@@ -13,7 +13,7 @@ My name is Martins Meisters. For last couple of years i spent large amount of my
 👉 RESTApi  <br>
 👉 GraphQL  <br>
 👉 Mongoose  <br>
-👆 Redux  <br>
+👉 Redux  <br>
 👆 GIT  <br>
 
 ### Currently focusing on:   <br>
@@ -35,7 +35,7 @@ This is quite large Spring boot application that covers many programming princip
 * Admin API - creates flight, search flight by id, deletes
 * Customer API - search flight by id, search airports, search flights using departure/arrival airports and departure date query  <br>
 
-App is secured with spring security and configured that everyone has authorized to do only what it is suposed to do. App is written in TDD aproach, it has unit testing and also integratons test. Thanks to services interface implementations there is option to switch from  "in-memory" data storage version to "database" version where i use PostgreSQL database. Request validations is also included.
+App is secured with spring security and configured that everyone has authorized to do only what it is suposed to do. App is written in TDD aproach, it has unit testing and also integratons test. Thanks to services interface implementations there is option to switch from  "in-memory" data storage version to "database" version where i use PostgreSQL database. Request validations are also included.
 
 <br>
 

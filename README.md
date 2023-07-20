@@ -48,8 +48,8 @@ Given input as mathematical expression in string ( "(2 + 6 * (2 / 2)" ) app calc
 
 ### Please don`t hesitate to contact me if you have some propositions for job oportunities 😉  <br>
 
-➡ mart8ins@gmail.com  <br>
+✉ mart8ins@gmail.com  <br>
 
-➡ + 371 29141645
+📞 + 371 29141645
 
 

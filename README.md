@@ -8,6 +8,7 @@ My name is Martins Meisters, [see on LinkedIn](https://www.linkedin.com/in/marti
 👉 Css  <br>
 👉 Sass  <br>
 👉 Javascript  <br>
+👉 TS  <br>
 👉 ReactJS  <br>
 👉 ExpressJS  <br>
 👉 RESTApi  <br>

@@ -2,7 +2,7 @@
 
 My name is Martins Meisters. For last couple of years i spent large amount of my free time learning and coding, currently last couple of months im doing it full time and non stop. Basically learning and coding for me now is more like an positive addiction. Over the time there were many tecnologies what i learned and have practiced to use.
 
-## Have experience using:  <br>
+### Have experience using:  <br>
 
 👇 Html  <br>
 👉 Css  <br>
@@ -16,13 +16,28 @@ My name is Martins Meisters. For last couple of years i spent large amount of my
 👆 Redux  <br>
 👆 GIT  <br>
 
-## Currently focusing on:   <br>
+### Currently focusing on:   <br>
 
 💥 OOP Java & Spring  <br>
 💥 JPA  <br>
 💥 SQL  <br>
 💥 Unit testing  <br>
 💥 GIT  <br>
+
+During learning process of Java i had created many projects what you can view here 
+[Java projects](https://github.com/stars/mart8ins/lists/java-projects)
+
+## Top 3 of them
+1️⃣ [Flight planner](https://github.com/mart8ins/flight-planner)  <br>
+This is quite large project that covers many programming principles. This is Spring boot application with two main API`s
+* Admin API - creates flight, search flight by id, deletes
+* Customer API - search flight by id, search airports, search flights using departure/arrival airports and departure date query
+App is secured with spring security and configured that everyone has authorized to do only what it is suposed to do.
+  <br>
+2️⃣  <br>
+3️⃣  <br>
+
+
 
 
 

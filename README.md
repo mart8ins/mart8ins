@@ -47,7 +47,9 @@ This project was interesting expierance to work with external files and deal wit
 Given input as mathematical expression in string ( "(2 + 6 * (2 / 2)" ) app calculates result. All mathematical rulles are followed: ( ) -> * -> / -> adding/substracting from left to right.  <br>
 
 ### Please don`t hesitate to contact me if you have some propositions for job oportunities 😉  <br>
+
 ➡ mart8ins@gmail.com  <br>
+
 ➡ + 371 29141645
 
 

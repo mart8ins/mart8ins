@@ -41,9 +41,9 @@ App is secured with spring security and configured that everyone has authorized 
 
 This project was interesting expierance to work with external files and deal with text data, in this case sudoku game drawings. App reads files with sudoku game and checks if this game is valid regardless if its completed or not. It validates game in all possible ways. It checks main rows, columns, diognals and also checks subgroup rows, columns and diognals. After validation is done app prints if sudoku game is valid or invalid.  <br>
 
-3️⃣  <br>
+3️⃣ [String expression calculator](https://github.com/mart8ins/stringExpressionCalculator)  <br>
 
-
+Given input as mathematical expression in string ( "(2 + 6 * (2 / 2)" ) app calculates result. All mathematical rulles are followed: ( ) -> * -> / -> adding/substracting from left to right.
 
 
 

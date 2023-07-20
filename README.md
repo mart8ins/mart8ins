@@ -29,11 +29,16 @@ During learning process of Java i had created many projects what you can view he
 
 ## Top 3 of them
 1️⃣ [Flight planner](https://github.com/mart8ins/flight-planner)  <br>
-This is quite large project that covers many programming principles. This is Spring boot application with two main API`s
+
+This is quite large Spring boot application that covers many programming principles. There are two main API`s
+
 * Admin API - creates flight, search flight by id, deletes
-* Customer API - search flight by id, search airports, search flights using departure/arrival airports and departure date query
-App is secured with spring security and configured that everyone has authorized to do only what it is suposed to do.
-  <br>
+* Customer API - search flight by id, search airports, search flights using departure/arrival airports and departure date query  <br>
+
+App is secured with spring security and configured that everyone has authorized to do only what it is suposed to do. App is written in TDD aproach, it has unit testing and also integratons test. Thanks to services interface implementations there is option to switch from  "in-memory" data storage version to "database" version where i use PostgreSQL database. Request validations is also included.
+
+<br>
+
 2️⃣  <br>
 3️⃣  <br>
 

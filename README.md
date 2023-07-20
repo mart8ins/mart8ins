@@ -44,4 +44,10 @@ This project was interesting expierance to work with external files and deal wit
 
 3️⃣ [String expression calculator](https://github.com/mart8ins/stringExpressionCalculator)  <br>
 
-Given input as mathematical expression in string ( "(2 + 6 * (2 / 2)" ) app calculates result. All mathematical rulles are followed: ( ) -> * -> / -> adding/substracting from left to right.
+Given input as mathematical expression in string ( "(2 + 6 * (2 / 2)" ) app calculates result. All mathematical rulles are followed: ( ) -> * -> / -> adding/substracting from left to right.  <br>
+
+### Please don`t hesitate to contact me if you have some propositions for job oportunities 😉
+➡ mart8ins@gmail.com
+➡ + 371 29141645
+
+

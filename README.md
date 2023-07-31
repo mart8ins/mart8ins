@@ -48,7 +48,7 @@ Given input as mathematical expression in string ( "(2 + 6 * (2 / 2)" ) app calc
 
 ## Top projects outside Java
 1️⃣ [CV generator](https://github.com/mart8ins/cv-generator)  <br>
-- [See on WEB](https://cv-generator-bay.vercel.app/)  <br>
+- [See on WEB](https://cv-generator-rho.vercel.app/)  <br>
 
 Built with NextJs. Create/customize your CV and downloud it as PDF.
 

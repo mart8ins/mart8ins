@@ -28,7 +28,7 @@ My name is Martins Meisters ( [see also in LinkedIn](https://www.linkedin.com/in
 During learning process of Java i had created many projects what you can view here 
 [Java projects](https://github.com/stars/mart8ins/lists/java-projects)
 
-## Top 3 of them
+## Top 3 of Java projects
 1️⃣ [Flight planner](https://github.com/mart8ins/flight-planner)  <br>
 
 This is quite large Spring boot application that covers many programming principles. There are two main API`s
@@ -46,7 +46,11 @@ This project was interesting expierance to work with external files and deal wit
 
 Given input as mathematical expression in string ( "(2 + 6 * (2 / 2)" ) app calculates result. All mathematical rulles are followed: ( ) -> * -> / -> adding/substracting from left to right.  <br>
 
+## Top projects outside Java
+1️⃣ [CV generator](https://github.com/mart8ins/cv-generator)  <br>
+[See on WEB](https://cv-generator-bay.vercel.app/)  <br>
 
+Built with NextJs. Create/customize your CV and downloud it as PDF.
 
 ### Please don`t hesitate to contact me if you have some propositions for job oportunities 😉  <br>
 

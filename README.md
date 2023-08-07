@@ -28,7 +28,7 @@ My name is Martins Meisters ( [see also in LinkedIn](https://www.linkedin.com/in
 During learning process of Java i had created many projects what you can view here 
 [Java projects](https://github.com/stars/mart8ins/lists/java-projects)
 
-## Top 3 of Java projects
+## Top Java projects
 1️⃣ [Flight planner](https://github.com/mart8ins/flight-planner)  <br>
 
 This is quite large Spring boot application that covers many programming principles. There are two main API`s
@@ -38,11 +38,7 @@ This is quite large Spring boot application that covers many programming princip
 
 App is secured with spring security and configured that everyone is authorized to do only what they are supposed to do. App is written in TDD aproach, it has unit testing and also integratons test. Thanks to services interface implementations there is option to switch from  "in-memory" data storage version to "database" version where i use PostgreSQL database. Request validations are also included.  <br>
 
-2️⃣ [Sudoku validator](https://github.com/mart8ins/sudokuValidator)  <br>
-
-This project was interesting expierance to work with external files and deal with text data, in this case sudoku game drawings. App reads files with sudoku game and checks if this game is valid regardless if its completed or not. It validates game in all possible ways. It checks main rows, columns, diognals and also checks subgroup rows, columns and diognals. After validation is done app prints if sudoku game is valid or invalid.  <br>
-
-3️⃣ [String expression calculator](https://github.com/mart8ins/stringExpressionCalculator)  <br>
+2️⃣ [String expression calculator](https://github.com/mart8ins/stringExpressionCalculator)  <br>
 
 Given input as mathematical expression in string ( "(2 + 6 * (2 / 2)" ) app calculates result. All mathematical rulles are followed: ( ) -> * -> / -> adding/substracting from left to right.  <br>
 

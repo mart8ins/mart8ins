@@ -42,11 +42,18 @@ App is secured with spring security and configured that everyone is authorized t
 
 Given input as mathematical expression in string ( "(2 + 6 * (2 / 2)" ) app calculates result. All mathematical rulles are followed: ( ) -> * -> / -> adding/substracting from left to right.  <br>
 
+3️⃣ [Sudoku validator](https://github.com/mart8ins/sudokuValidator)  <br>
+
+This project was interesting expierance to work with external files and deal with text data, in this case sudoku game drawings. App reads files with sudoku game and checks if this game is valid regardless if its completed or not. It validates game in all possible ways. It checks main rows, columns, diognals and also checks subgroups. After validation is done app prints if sudoku game is valid or invalid.  <br>
+
+
 ## Top projects outside Java
 1️⃣ [CV generator](https://github.com/mart8ins/cv-generator)  <br>
-- [See on WEB](https://cv-generator-rho.vercel.app/)  <br>
 
 Built with NextJs. Create/customize your CV and downloud it as PDF.
+- [See on WEB](https://cv-generator-rho.vercel.app/)  <br>
+
+
 
 ### Please don`t hesitate to contact me if you have some propositions for job oportunities 😉  <br>
 

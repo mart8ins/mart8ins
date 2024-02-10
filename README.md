@@ -1,6 +1,8 @@
 # Hello there! 👋
 
-My name is Martins Meisters ( [see also in LinkedIn](https://www.linkedin.com/in/martinsmeisters/) ). For last couple of years i spent large amount of my free time coding, currently last couple of months im doing it full time and non stop. Basically learning and coding for me now is more like an positive addiction. Over the time there were many technologies what i learned and have practiced so far.
+My name is Martins Meisters ( [see also in LinkedIn](https://www.linkedin.com/in/martinsmeisters/) ).  
+
+I am a self-taught programmer who currently works professionally as .Net developer. Before career in software development as .Net developer i spent a lot of time in self study and have also some knowledge in following technologies:
 
 ### Have experience using:  <br>
 
@@ -16,14 +18,10 @@ My name is Martins Meisters ( [see also in LinkedIn](https://www.linkedin.com/in
 👉 Mongoose  <br>
 👉 Redux  <br>
 👆 GIT  <br>
-
-### Currently focusing on:   <br>
-
-💥 OOP Java & Spring  <br>
-💥 JPA  <br>
-💥 SQL  <br>
-💥 Unit testing  <br>
-💥 GIT  <br>
+👆 OOP Java & Spring  <br>
+👆 SQL  <br>
+👆 JPA  <br>
+👆 Unit testing  <br>
 
 During learning process of Java i had created many projects what you can view here 
 [Java projects](https://github.com/stars/mart8ins/lists/java-projects)
@@ -46,14 +44,11 @@ Given input as mathematical expression in string ( "(2 + 6 * (2 / 2)" ) app calc
 
 This project was interesting expierance to work with external files and deal with text data, in this case sudoku game drawings. App reads files with sudoku game and checks if this game is valid regardless if its completed or not. It validates game in all possible ways. It checks main rows, columns, diognals and also checks subgroups. After validation is done app prints if sudoku game is valid or invalid.  <br>
 
-
 ## Top projects outside Java
 1️⃣ [CV generator](https://github.com/mart8ins/cv-generator)  <br>
 
 Built with NextJs. Create/customize your CV and downloud it as PDF.
 - [See on WEB](https://cv-generator-rho.vercel.app/)  <br>
-
-
 
 ### Please don`t hesitate to contact me if you have some propositions for job oportunities 😉  <br>
 

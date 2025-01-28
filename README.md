@@ -20,8 +20,7 @@ App reads files with sudoku game and checks if this game is valid regardless if 
 
 ### NextJs
 1️⃣ [CV generator](https://github.com/mart8ins/cv-generator)  <br>
-
-Built with NextJs. Create/customize your CV and downloud it as PDF.<br>
+Create/customize your CV and downloud it as PDF.<br>
 
 
 ### Please don`t hesitate to contact me if you have some propositions for job oportunities 😉  <br>

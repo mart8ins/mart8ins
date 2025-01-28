@@ -7,15 +7,11 @@ I am a hardworking, detail-oriented professional with a strong sense of responsi
 ## Top C#/.NET projects
 1️⃣ [File thumbnail generation API service](https://github.com/mart8ins/Thumbnail.API)  <br>
 
-## Top Java projects
+## Other projects
+### Java
 1️⃣ [Flight planner](https://github.com/mart8ins/flight-planner)  <br>
 
-This is quite large Spring boot application that covers many programming principles. There are two main API`s
-
-* Admin API - creates flight, search flight by id, deletes
-* Customer API - search flight by id, search airports, search flights using departure/arrival airports and departure date query  <br>
-
-App is secured with spring security and configured that everyone is authorized to do only what they are supposed to do. App is written in TDD aproach, it has unit testing and also integratons test. Thanks to services interface implementations there is option to switch from  "in-memory" data storage version to "database" version where i use PostgreSQL database. Request validations are also included.  <br>
+Spring boot application app what is secured with spring security and configured that everyone is authorized to do only what they are supposed to do. App is written in TDD aproach, it has unit testing and also integratons test. Thanks to services interface implementations there is option to switch from  "in-memory" data storage version to "database" version where i use PostgreSQL database. Request validations are also included.  <br>
 
 2️⃣ [String expression calculator](https://github.com/mart8ins/stringExpressionCalculator)  <br>
 

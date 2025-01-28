@@ -8,6 +8,7 @@ I am a hardworking, detail-oriented professional with a strong sense of responsi
 1️⃣ [File thumbnail generation API service](https://github.com/mart8ins/Thumbnail.API)  <br>
 Web API service project that generates thumbnails for provided files. Accepted files - images, videos, office documents.
 <br>
+<br>
 
 ## Other projects
 <br>

@@ -4,6 +4,8 @@ My name is Martins Meisters and i am a C#/.NET Full-stack software developer ( [
 
 I am a hardworking, detail-oriented professional with a strong sense of responsibility. I approach tasks with efficiency and maintain an organized work environment. Driven by a passion for personal growth and excellence, I continually strive to deliver high-quality results. With extensive experience in the sales industry, both in retail and e-commerce, I have developed excellent communication skills, enabling me to understand client needs and provide effective solutions. Through self-study, I gained hands-on experience in coding, particularly within the JavaScript ecosystem (React, Express.js), which led to my transition into a professional software development role. Currently, I specialize in .NET development using C# programming language.
 
+## C#/.NET projects
+
 ### Have experience using:  <br>
 
 👇 Html  <br>👉 Css  <br>👉 Sass  <br>

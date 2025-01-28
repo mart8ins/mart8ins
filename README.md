@@ -6,26 +6,32 @@ I am a hardworking, detail-oriented professional with a strong sense of responsi
 
 ## Top C#/.NET projects
 1️⃣ [File thumbnail generation API service](https://github.com/mart8ins/Thumbnail.API)  <br>
+Web API service project that generates thumbnails for provided files. Accepted files - images, videos, office documents.
+<br>
+
 
 ## Other projects
+<br>
 ### Java
-1️⃣ [Flight planner](https://github.com/mart8ins/flight-planner)  <br>
+<br>
+1️⃣ [Flight planner](https://github.com/mart8ins/flight-planner)  
+<br>
+Spring boot application App is written in TDD aproach, it has unit testing and also integrations tests. Thanks to services interface implementations there is option to switch from  "in-memory" data storage version to "database" version where i use PostgreSQL database. 
+<br>
+2️⃣ [String expression calculator](https://github.com/mart8ins/stringExpressionCalculator)  
+<br>
+Given input as mathematical expression in string ( "(2 + 6 * (2 / 2)" ) app calculates result. All mathematical rulles are followed: ( ) -> * -> / -> adding/substracting from left to right.  
+<br>
+3️⃣ [Sudoku validator](https://github.com/mart8ins/sudokuValidator) 
+<br>
+App reads files with sudoku game and checks if this game is valid regardless if its completed or not. It validates game in all possible ways. It checks main rows, columns, diognals and also checks subgroups. 
+<br>
 
-Spring boot application app what is secured with spring security and configured that everyone is authorized to do only what they are supposed to do. App is written in TDD aproach, it has unit testing and also integratons test. Thanks to services interface implementations there is option to switch from  "in-memory" data storage version to "database" version where i use PostgreSQL database. Request validations are also included.  <br>
-
-2️⃣ [String expression calculator](https://github.com/mart8ins/stringExpressionCalculator)  <br>
-
-Given input as mathematical expression in string ( "(2 + 6 * (2 / 2)" ) app calculates result. All mathematical rulles are followed: ( ) -> * -> / -> adding/substracting from left to right.  <br>
-
-3️⃣ [Sudoku validator](https://github.com/mart8ins/sudokuValidator)  <br>
-
-This project was interesting expierance to work with external files and deal with text data, in this case sudoku game drawings. App reads files with sudoku game and checks if this game is valid regardless if its completed or not. It validates game in all possible ways. It checks main rows, columns, diognals and also checks subgroups. After validation is done app prints if sudoku game is valid or invalid.  <br>
-
-## Other projects
-1️⃣ [CV generator](https://github.com/mart8ins/cv-generator)  <br>
-
+### NextJs
+1️⃣ [CV generator](https://github.com/mart8ins/cv-generator)  
+<br>
 Built with NextJs. Create/customize your CV and downloud it as PDF.
-- [See on WEB](https://cv-generator-rho.vercel.app/)  <br>
+<br>
 
 ### Please don`t hesitate to contact me if you have some propositions for job oportunities 😉  <br>
 

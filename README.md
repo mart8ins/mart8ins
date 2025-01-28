@@ -7,28 +7,6 @@ I am a hardworking, detail-oriented professional with a strong sense of responsi
 ## Top C#/.NET projects
 1️⃣ [File thumbnail generation API service](https://github.com/mart8ins/Thumbnail.API)  <br>
 
-
-
-### Have experience using:  <br>
-
-👇 Html  <br>👉 Css  <br>👉 Sass  <br>
-👉 Javascript  <br>
-👉 TS  <br>
-👉 ReactJS  <br>
-👉 ExpressJS  <br>
-👉 RESTApi  <br>
-👉 GraphQL  <br>
-👉 Mongoose  <br>
-👉 Redux  <br>
-👆 GIT  <br>
-👆 OOP Java & Spring  <br>
-👆 SQL  <br>
-👆 JPA  <br>
-👆 Unit testing  <br>
-
-During learning process of Java i had created many projects what you can view here 
-[Java projects](https://github.com/stars/mart8ins/lists/java-projects)
-
 ## Top Java projects
 1️⃣ [Flight planner](https://github.com/mart8ins/flight-planner)  <br>
 
@@ -47,7 +25,7 @@ Given input as mathematical expression in string ( "(2 + 6 * (2 / 2)" ) app calc
 
 This project was interesting expierance to work with external files and deal with text data, in this case sudoku game drawings. App reads files with sudoku game and checks if this game is valid regardless if its completed or not. It validates game in all possible ways. It checks main rows, columns, diognals and also checks subgroups. After validation is done app prints if sudoku game is valid or invalid.  <br>
 
-## Top projects outside Java
+## Other projects
 1️⃣ [CV generator](https://github.com/mart8ins/cv-generator)  <br>
 
 Built with NextJs. Create/customize your CV and downloud it as PDF.

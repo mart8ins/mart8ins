@@ -11,7 +11,6 @@ Web API service project that generates thumbnails for provided files. Accepted f
 <br>
 
 ## Other projects
-<br>
 
 ### Java
 <br>

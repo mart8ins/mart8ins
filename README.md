@@ -9,9 +9,9 @@ I am a hardworking, detail-oriented professional with a strong sense of responsi
 Web API service project that generates thumbnails for provided files. Accepted files - images, videos, office documents.
 <br>
 
-
 ## Other projects
 <br>
+
 ### Java
 <br>
 1️⃣ [Flight planner](https://github.com/mart8ins/flight-planner)  

@@ -1,14 +1,12 @@
 # Hello there! 👋
 
-My name is Martins Meisters ( [see also in LinkedIn](https://www.linkedin.com/in/martinsmeisters/) ).  
+My name is Martins Meisters and i am a C#/.NET Full-stack software developer ( [see also in LinkedIn](https://www.linkedin.com/in/martinsmeisters/) )
 
-I am a self-taught programmer who currently works professionally as .Net developer. Before career in software development as .Net developer i spent a lot of time in self study and have also some knowledge in following technologies:
+I am a hardworking, detail-oriented professional with a strong sense of responsibility. I approach tasks with efficiency and maintain an organized work environment. Driven by a passion for personal growth and excellence, I continually strive to deliver high-quality results. With extensive experience in the sales industry, both in retail and e-commerce, I have developed excellent communication skills, enabling me to understand client needs and provide effective solutions. Through self-study, I gained hands-on experience in coding, particularly within the JavaScript ecosystem (React, Express.js), which led to my transition into a professional software development role. Currently, I specialize in .NET development using C# programming language.
 
 ### Have experience using:  <br>
 
-👇 Html  <br>
-👉 Css  <br>
-👉 Sass  <br>
+👇 Html  <br>👉 Css  <br>👉 Sass  <br>
 👉 Javascript  <br>
 👉 TS  <br>
 👉 ReactJS  <br>

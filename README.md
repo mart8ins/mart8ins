@@ -9,6 +9,7 @@ I am a hardworking, detail-oriented professional with a strong sense of responsi
 Web API service project that generates thumbnails for provided files. Accepted files - images, videos, office documents.
 <br>
 2️⃣ [Weather data app using Azure function, React and .Net Core](https://github.com/mart8ins/CloudReports))  <br>
+Azure function fetches weather data from openweathermap.org API, stores data into database. UI pages displays fetching logs and fetched data using chart.
 
 ## Other projects
 ### Java
